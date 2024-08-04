@@ -1,0 +1,3 @@
+page,field_name,field_type,id_locator,xpath_locator,linktext_locator,partiallinktext_locator,name_locator,tagname_locator,classname_locator,cssselector_locator
+login,username,text,,,,,username,,,
+login,password,password,,,,,password,,,
